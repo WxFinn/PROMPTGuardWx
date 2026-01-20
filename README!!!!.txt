@@ -1,0 +1,3 @@
+inferr.py是推理文件
+运行training.sh训练
+不同的显卡驱动训练时记得更改.venv虚拟环境里torch和torchvision包的安装

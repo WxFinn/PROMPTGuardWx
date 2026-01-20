@@ -1,2 +1,0 @@
-inferr.py是推理文件
-运行training.sh训练
